@@ -20,13 +20,13 @@ javac servidor.java Client1.java Client2.java Client3.java
 Como executar:
 1) Inicie o servidor:
 ```bash
-java servidor
+java servidor.java
 ```
 2) Em três terminais separados, conecte 3 clientes:
 ```bash
-java Client1
-java Client2
-java Client3
+java Client1.java
+java Client2.java
+java Client3.java
 ```
 
 Comportamento interativo dos clientes:
